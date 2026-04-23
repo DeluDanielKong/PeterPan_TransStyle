@@ -20,7 +20,7 @@ The corpus comprises three complete Chinese translations of *Peter Pan*. The cor
 | Folder | Translator | Year | Abbrev. |
 |---|---|---|---|
 | `corpus/Liang1929/` | Liang Shiqiu (梁实秋) | 1929 | Liang1929 |
-| `corpus/Y&G1991/` | Yang Jingyuan & Gu Xianghua (杨静远 & 顾翔华) | 1991 | Yang&Gu |
+| `corpus/Y&G1991/` | Yang Jingyuan & Gu Xianghua (杨静远 & 顾耕) | 1991 | Yang&Gu |
 | `corpus/Ren2006/` | Ren Rongrong (任溶溶) | 2006 | Ren2006 |
 
 Each translation was segmented into chapter-level samples. The full dataset contains **159 samples** across the three translations.
